@@ -64,7 +64,7 @@
 ||insiderppe.cloudapp.net^
 ||insiderservice.microsoft.com^
 ||insiderservice.trafficmanager.net^
-||ipv6.microsoft.com
+||ipv6.microsoft.com^
 ||ipv6.msftncsi.com^
 ||ipv6.msftncsi.com.edgesuite.net^
 ||lb1.www.ms.akadns.net^
@@ -98,7 +98,7 @@
 ||statsfe1.ws.microsoft.com^
 ||statsfe2.update.microsoft.com.akadns.net^
 ||statsfe2.ws.microsoft.com^
-||storeedgefd.dsx.mp.microsoft.com^         #breaks Windows Store
+||storeedgefd.dsx.mp.microsoft.com^         # breaks Windows Store
 ||sts.microsoft.com^
 ||telecommand.telemetry.microsoft.com.nsatc.net^
 ||telemetry.appex.bing.net^
