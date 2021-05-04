@@ -152,6 +152,7 @@
 0.0.0.0 insiderppe.cloudapp.net
 0.0.0.0 insiderservice.microsoft.com
 0.0.0.0 insiderservice.trafficmanager.net
+0.0.0.0 ipv6.microsoft.com
 0.0.0.0 ipv6.msftncsi.com
 0.0.0.0 ipv6.msftncsi.com.edgesuite.net
 0.0.0.0 lb1.www.ms.akadns.net
@@ -297,3 +298,4 @@
 0.0.0.0 weus2watcab01.blob.core.windows.net
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 win10.ipv6.microsoft.com
+0.0.0.0 win8.ipv6.microsoft.com
