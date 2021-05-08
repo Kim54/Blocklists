@@ -3,7 +3,6 @@
 # Microsoft Ads & Telemetry
 ||184-86-53-99.deploy.static.akamaitechnologies.com^
 ||2mdn.net^
-||a.akamaiedge.net^
 ||ac3.msn.com^
 ||adnexus.net^
 ||adnxs.com^
@@ -23,7 +22,6 @@
 ||bing.com^
 ||blob.core.windows.net^
 ||candycrushsoda.king.com^
-||ce.akamaiedge.net^
 ||choice.microsoft.com^
 ||choice.microsoft.com.nsatc.net^
 ||client.wns.windows.com^
@@ -39,7 +37,6 @@
 ||data.microsoft.com.akadns.net^
 ||dc.services.visualstudio.com^
 ||diagnostics.support.microsoft.com^
-||dspb.akamaiedge.net^
 ||edge.bing.com^
 ||edge.net^
 ||fe2.update.microsoft.com.akadns.net^
@@ -81,6 +78,7 @@
 ||public-family.api.account.microsoft.com^
 ||rad.live.com^
 ||rad.msn.com^
+||rads.msn.com^
 ||redir.metaservices.microsoft.com^
 ||schemas.microsoft.akadns.net^
 ||serving-sys.com^
