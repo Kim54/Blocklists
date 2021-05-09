@@ -3,6 +3,9 @@
 # Microsoft Ads & Telemetry
 ||184-86-53-99.deploy.static.akamaitechnologies.com^
 ||2mdn.net^
+||a1621.g.akamai.net^
+||a1856.g2.akamai.net^
+||a1961.g.akamai.net^
 ||ac3.msn.com^
 ||adnexus.net^
 ||adnxs.com^
@@ -18,6 +21,8 @@
 ||a.rad.msn.com^
 ||aria.microsoft.com^
 ||atdmt.com^
+||az361816.vo.msecnd.net^
+||az512334.vo.msecnd.net^
 ||bingads.microsoft.com
 ||bing.com^
 ||blob.core.windows.net^
@@ -29,6 +34,8 @@
 ||compatexchange.cloudapp.net^
 ||core.windows.net^
 ||corpext.msitadfs.glbdns2.microsoft.com^
+||cs11.wpc.v0cdn.net^
+||cs1.wpc.v0cdn.net^
 ||data.glbdns2.microsoft.com^
 ||data.metron.live.com.nsatc.net^
 ||data.microsft.com^
@@ -37,8 +44,9 @@
 ||data.microsoft.com.akadns.net^
 ||dc.services.visualstudio.com^
 ||diagnostics.support.microsoft.com^
+||e9483.a.akamaiedge.net^
 ||edge.bing.com^
-||edge.net^
+||edge.net^.
 ||fe2.update.microsoft.com.akadns.net^
 ||feedback.search.microsoft.com^
 ||feedback.windows.com^
@@ -104,8 +112,6 @@
 ||telemetry.urs.microsoft.com^
 ||tele.trafficmanager.net^
 ||tsfe.trafficshaping.dsp.mp.microsoft.com^
-||v0cdn.net^
-||vo.msecnd.net^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||wdcpalt.microsoft.com^
