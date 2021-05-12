@@ -230,6 +230,7 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.myendpoint.io
+0.0.0.0 api.rewards.brave.com
 0.0.0.0 api.segment.io
 0.0.0.0 apis.ihg.com.edgekey.net
 0.0.0.0 api.smbeat.jp
@@ -355,6 +356,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 criteo-sync.teads.tv.edgekey.net
+0.0.0.0 crlsets.brave.com
 0.0.0.0 crta.dailymail.co.uk.edgekey.net
 0.0.0.0 cse.google.com
 0.0.0.0 cs.iadsdk.apple.com
@@ -451,6 +453,7 @@
 0.0.0.0 go.rjmetrics.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 gql.reddit.com
+0.0.0.0 grant.rewards.brave.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 greetingshere.at
 0.0.0.0 grupoeci.elcorteingles.es.edgekey.net.ssopt.net
@@ -527,6 +530,7 @@
 0.0.0.0 kraskula.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kylepasse.at
+0.0.0.0 laptop-updates.brave.com
 0.0.0.0 lasmeio.com
 0.0.0.0 launch.apple.com
 0.0.0.0 launches.appsflyer.com
@@ -760,6 +764,7 @@
 0.0.0.0 outbrain.com.edgekey.net
 0.0.0.0 outbrainimg.com.edgekey.net
 0.0.0.0 owneriq.net.edgekey.net
+0.0.0.0 p3a.brave.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagead.l.doubleclick.net
@@ -793,6 +798,7 @@
 0.0.0.0 redirect.easyjet.com.edgekey.net.easyjet.com
 0.0.0.0 replylaten.at
 0.0.0.0 reports.crashlytics.com
+0.0.0.0 rewards.brave.com
 0.0.0.0 revcontent.com
 0.0.0.0 revjet.com
 0.0.0.0 richmetrics.com
@@ -870,6 +876,8 @@
 0.0.0.0 starbolt.io
 0.0.0.0 star.cdn-pci.optimizely.com.edgekey.net
 0.0.0.0 stat.flashtalking.com.edgekey.net
+0.0.0.0 static1.brave.com
+0.0.0.0 static.brave.com
 0.0.0.0 static.ada.support
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.dable.io.edgekey.net
@@ -911,6 +919,7 @@
 0.0.0.0 teads.tv.edgekey.net
 0.0.0.0 teads.tv-v1.edgekey.net
 0.0.0.0 ted.dailymail.co.uk.edgekey.net
+0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 tenjin.io
 0.0.0.0 t.hsms06.com
