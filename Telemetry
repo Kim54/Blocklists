@@ -170,6 +170,7 @@
 ||criteo.com^$important
 ||criteo.net^$important
 ||criteo-sync.teads.tv.edgekey.net^$important
+||crlsets.brave.com^$important
 ||crta.dailymail.co.uk.edgekey.net^$important
 ||cse.google.com^$important
 ||cstat.apple.com^$important
@@ -320,6 +321,7 @@
 ||kochava.com^$important
 ||kraskula.com^$important
 ||kylepasse.at^$important
+||laptop-updates.brave.com^$important
 ||lasmeio.com^$important
 ||launch.apple.com^$important
 ||l.doubleclick.net^$important
@@ -397,6 +399,7 @@
 ||outbrain.com.edgekey.net^$important
 ||outbrainimg.com.edgekey.net^$important
 ||owneriq.net.edgekey.net^$important
+||p3a.brave.com^$important
 ||pagead2.googlesyndication.com^$important
 ||pagead46.l.doubleclick.net^$important
 ||pagead.l.doubleclick.net^$important
@@ -424,6 +427,7 @@
 ||reach-api.urbanairship.com-v1.edgekey.net^$important
 ||realtime.services.disqus.com^$important
 ||redirect.easyjet.com.edgekey.net.easyjet.com^$important
+||rewards.brave.com^$important
 ||replylaten.at^$important
 ||revcontent.com^$important
 ||revjet.com^$important
@@ -500,6 +504,8 @@
 ||starbolt.io^$important
 ||star.cdn-pci.optimizely.com.edgekey.net^$important
 ||stat.flashtalking.com.edgekey.net^$important
+||static1.brave.com^$important
+||static.brave.com
 ||static.ada.support^$important
 ||static.dable.io.edgekey.net^$important
 ||static.doubleclick.net^$important
@@ -535,6 +541,7 @@
 ||teads.tv.edgekey.net^$important
 ||teads.tv-v1.edgekey.net^$important
 ||ted.dailymail.co.uk.edgekey.net^$important
+||telemetry-in.battle.net^$important
 ||telemetry.soundcloud.com^$important
 ||tenjin.io^$important
 ||tiqcdn.com.edgekey.net^$important
