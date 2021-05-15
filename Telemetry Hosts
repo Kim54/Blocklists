@@ -226,7 +226,6 @@
 0.0.0.0 api.bugfender.com
 0.0.0.0 api.choicestream.com.edgekey.net
 0.0.0.0 api.deep-ad.com.edgekey.net
-0.0.0.0 api.facebook.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.myendpoint.io
@@ -339,6 +338,7 @@
 0.0.0.0 comscoreresearch.com
 0.0.0.0 concert.io
 0.0.0.0 conductor.clicktale.net.edgekey.net
+0.0.0.0 connect.facebook.net
 0.0.0.0 connect.facebook.net.edgekey.net
 0.0.0.0 consentcdn.cookiebot.com-v1.edgekey.net
 0.0.0.0 consent.cookiebot.com.edgekey.net
@@ -407,9 +407,6 @@
 0.0.0.0 evidon.com.edgekey.net
 0.0.0.0 exacttarget.com.edgekey.net
 0.0.0.0 fabric.io
-0.0.0.0 facebook.com.edgekey.net
-0.0.0.0 www.facebook.com.edgekey.net
-0.0.0.0 facebook.net
 0.0.0.0 fastly-insights.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 fb.com
@@ -427,7 +424,6 @@
 0.0.0.0 flashtalking.com.edgekey.net
 0.0.0.0 flurry.com
 0.0.0.0 fopyirr.com
-0.0.0.0 forcesafesearch.google.com
 0.0.0.0 forters.com
 0.0.0.0 froekuge.com
 0.0.0.0 gd1.mookie1.com.edgekey.net
@@ -866,7 +862,6 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 ssl.ligatus.com.edgekey.net
-0.0.0.0 s-static.ak.facebook.com.edgekey.net
 0.0.0.0 s-static.innovid.com.edgekey.net
 0.0.0.0 ssum.casalemedia.com.edgekey.net
 0.0.0.0 ssum-sec.casalemedia.com.edgekey.net
