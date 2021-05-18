@@ -387,7 +387,6 @@
 0.0.0.0 ds-vn.serving-sys.com.edgekey.net
 0.0.0.0 ds-wildcard.moatads.com.edgekey.net
 0.0.0.0 ds-www.addthis.com.edgekey.net
-0.0.0.0 dualstack.k.sni.global.fastly.net
 0.0.0.0 e8218.dscb1.akamaiedge.net
 0.0.0.0 e.crashlytics.com
 0.0.0.0 edgesuite.net
