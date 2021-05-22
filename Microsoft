@@ -23,7 +23,7 @@
 ||atdmt.com^
 ||az361816.vo.msecnd.net^
 ||az512334.vo.msecnd.net^
-||bingads.microsoft.com
+||bingads.microsoft.com^
 ||bing.com^
 ||blob.core.windows.net^
 ||candycrushsoda.king.com^
@@ -36,6 +36,8 @@
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||cs11.wpc.v0cdn.net^
 ||cs1.wpc.v0cdn.net^
+||ceuswatcab01.blob.core.windows.net^
+||ceuswatcab02.blob.core.windows.net^
 ||data.glbdns2.microsoft.com^
 ||data.metron.live.com.nsatc.net^
 ||data.microsft.com^
@@ -45,8 +47,10 @@
 ||dc.services.visualstudio.com^
 ||diagnostics.support.microsoft.com^
 ||e9483.a.akamaiedge.net^
+||eaus2watcab01.blob.core.windows.net^
+||eaus2watcab02.blob.core.windows.net^
 ||edge.bing.com^
-||edge.net^.
+||edge.net^
 ||fe2.update.microsoft.com.akadns.net^
 ||feedback.search.microsoft.com^
 ||feedback.windows.com^
@@ -116,3 +120,5 @@
 ||watson.microsoft.com^
 ||wdcpalt.microsoft.com^
 ||wdcp.microsoft.com^           # breaks Windows Defender Cloud-based protection
+||weus2watcab01.blob.core.windows.net^
+||weus2watcab02.blob.core.windows.net^
