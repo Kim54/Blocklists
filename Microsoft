@@ -91,7 +91,7 @@
 ||microsoft-hohm.com^
 ||msads.net^
 ||msecn.net^
-||msedge.net^
+# ||msedge.net^
 ||msnbot-65-55-108-23.search.msn.com^
 ||onecollector.cloudapp.aria.akadns.net^
 ||preview.msn.com^
@@ -107,6 +107,8 @@
 ||settings-ssl.xboxlive.com-c.edgekey.net^
 ||settings-ssl.xboxlive.com-c.edgekey.net.globalredir.akadns.net^
 ||s.gateway.messenger.live.com^
+||smartscreen.microsoft.com^
+||smartscreen-prod.microsoft.com^
 ||social.microsoft.com^
 ||social.microsoft.com.nsatc.net^
 ||ssw.live.com^
