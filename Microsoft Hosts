@@ -49,8 +49,8 @@
 0.0.0.0 www.aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsft.com
 0.0.0.0 alpha.telemetry.microsoft.com
-0.0.0.0 a-msedge.net
-0.0.0.0 www.a-msedge.net
+# 0.0.0.0 a-msedge.net
+# 0.0.0.0 www.a-msedge.net
 0.0.0.0 any.edge.bing.com
 0.0.0.0 a.rad.msn.com
 0.0.0.0 www.a.rad.msn.com
