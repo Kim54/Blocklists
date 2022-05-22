@@ -94,7 +94,7 @@
 0.0.0.0 corp.sts.microsoft.com
 0.0.0.0 www.corp.sts.microsoft.com
 0.0.0.0 cs1137.wpc.gammacdn.net
-0.0.0.0 cs11.wpc.v0cdn.net
+# 0.0.0.0 cs11.wpc.v0cdn.net
 0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 www.cs1.wpc.v0cdn.net
 0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
